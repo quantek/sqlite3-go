@@ -1,2 +1,2 @@
 # sqlite3-go
-A SQLite wrapper for Go
+An SQLite wrapper for Go
